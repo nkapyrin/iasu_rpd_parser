@@ -4,7 +4,6 @@ from os.path import isfile, join
 import docx
 import codecs
 from shorten_bib_entry import shorten
-
 from get_up import get_up
 
 bib = set()
